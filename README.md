@@ -1,4 +1,4 @@
-# NES-Online
+# NES Game Grabber
 Play NES games from archive.org the easy way
 
 A simple command line tool for windows powered by Python*
